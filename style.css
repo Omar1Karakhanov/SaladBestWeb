@@ -1619,8 +1619,8 @@ body {
     .hero__plate {
         width: 280px;
         height: 280px;
-        left: 50%;
-        top: 50%;
+        left: 60%;
+        top: 40%;
     }
 
     .hero__image {
@@ -1635,21 +1635,21 @@ body {
 
     .hero__thumb--1 {
         top: -1%;
-        left: 26%;
+        left: 23%;
     }
 
     .hero__thumb--2 {
         top: 27%;
-        left: -3%;
+        left: 1%;
     }
 
     .hero__thumb--3 {
         top: 65%;
-        left: 4%;
+        left: 6%;
     }
 
     .hero__thumb--4 {
-        top: 90%;
+        top: 92%;
         left: 40%;
     }
 
